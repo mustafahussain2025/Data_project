@@ -2,7 +2,7 @@ Loan Analysis Dashboard
 
 This Tableau dashboard provides comprehensive insights into loan portfolios, empowering financial institutions and lending organizations to make informed decisions and manage risk effectively. Leveraging data visualization capabilities, the dashboard offers intuitive analytics for monitoring, analyzing, and optimizing loan performance.
 
-Dashboard link : 
+Dashboard link : https://public.tableau.com/app/profile/mustafa.hussain6539 
 
 Key Features:
 Loan Portfolio Overview: Gain a holistic view of the loan portfolio, including total loan amount, distribution across different loan types, and geographic dispersion.
